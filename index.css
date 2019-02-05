@@ -1,7 +1,12 @@
-
+body {
+  background-color: light grey;
+}
 ./flex-wrapper {
   display: flex;
   justify-content: space-between;
+align-items: center;
+flex
+
 }
 ./flex-item {
 width:50px;
